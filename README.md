@@ -11,4 +11,4 @@ email address: sarkissian.mell321@yahoo.com
 GitHub account: Sarkissian321
 
 ## Link to Github Repository
-https://github.com/Sarkissian321/note-taker-project
+(https://github.com/Sarkissian321/GenderReveal)https://github.com/Sarkissian321/GenderReveal
